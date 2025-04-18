@@ -1,119 +1,168 @@
 <div align="center">
-  <img width="100%" height="100%" src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" alt="cover" />
+  <!-- Header with sparkle border -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=header&text=Welcome%20to%20Joyrita's%20Coding%20World&fontSize=32&fontColor=ffffff&fontAlignY=28&desc=✨%20Web%20Developer%20|%20AI%20Scientist%20|%20Dreamer%20✨&descAlignY=51&descSize=18&animation=fadeIn" />
 </div>
 
+<!-- Elegant intro with animated elements -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Pacifico&size=35&center=true&vCenter=true&width=500&height=70&duration=2500&pause=500&color=FF6EC7&background=FFFFFF00&lines=Hello+There+👋;I'm+Joyrita!;Full+Stack+Developer;AI+Scientist" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Dancing+Script&size=40&center=true&vCenter=true&width=500&height=70&duration=2000&pause=1000&color=ff69b4&background=FFFFFF00&lines=Hello+World!;I'm+Joyrita!;✨+Creating+Digital+Magic+✨" />
 </h1>
 
+<!-- About me with decorative elements -->
 <div align="center">
-  <a href="mailto:joyritanjoki061@gmail.com">
-    <img src="https://img.shields.io/badge/Email-joyritanjoki061%40gmail.com-FF6EC7?style=for-the-badge&logo=gmail" alt="Email" />
-  </a>
-  <!-- Add your portfolio link when ready -->
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-9C27B0?style=for-the-badge&logo=safari" alt="Portfolio" />
-  </a>
+  <img width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding Girl" />
 </div>
-
-<br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF6EC7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+Scientist;Web3+Enthusiast;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Pacifico&size=25&duration=4000&pause=700&color=ff69b4&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer+%26+AI+Scientist;Transforming+Ideas+into+Beautiful+Reality;Creating+with+Passion+and+Precision;Building+Elegant+Digital+Experiences" alt="Typing SVG" />
 </p>
 
+<!-- Elegant buttons -->
 <div align="center">
-  <img src="https://github-readme-quotes.herokuapp.com/quote?theme=dracula&animation=grow_out_in&layout=zues&font=Redressed&border=pink" alt="Quote" />
+  <a href="mailto:joyritanjoki061@gmail.com">
+    <img src="https://custom-icon-badges.demolab.com/badge/-Email%20Me-ff69b4?style=for-the-badge&logo=mail&logoColor=white" alt="Email" />
+  </a>
+<a href="#" onclick="return false;">
+  <img src="https://custom-icon-badges.demolab.com/badge/-Portfolio%20(Coming%20Soon)-9c27b0?style=for-the-badge&logo=browser&logoColor=white" alt="Portfolio Coming Soon" />
+</a>
 </div>
 
-## 💫 About Me
+<!-- Decorative divider -->
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</p>
 
-<img align="right" height="270px" width="350px" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
+<!-- About me section with flower emojis -->
+<h2 align="center">🌸 About Me 🌸</h2>
 
-- 👩‍🎓 Studied Computer Science at The Catholic University of Eastern Africa (CUEA)
-- 👩‍💻 Full Stack Developer & AI Scientist with passion for Web3
-- 💎 Creating elegant solutions to complex problems
-- 🌱 Always learning and improving my coding skills
-- ✨ Passionate about building intuitive and beautiful web experiences
-- 🔭 Currently working on exciting AI-powered web applications
-- 💡 Open to collaborations and new opportunities
-- 📫 Let's connect! Feel free to reach out via email
+<p align="left">
+  <em>
+    A passionate Full Stack Developer and AI Scientist with a flair for creating beautiful digital experiences. My journey in tech is driven by creativity, innovation, and a love for elegant solutions.
+  </em>
+</p>
 
 <br/>
 
-## 🛠️ Tech & Tools
+- 👩‍🎓 Pursuing a degree in Computer Science from The Catholic University of Eastern Africa
+- 💖 Passionate about creating intuitive, aesthetic, and powerful web applications
+- 🦄 Specializing in AI integration with web platforms and apps
+- 🌱 Currently exploring advanced machine learning algorithms and UI/UX design principles
+- 💫 Love turning complex problems into simple, beautiful solutions
+- 🌐 Building my path in the Web3 landscape and decentralized applications
+- 📫 Reach out for collaborations at joyritanjoki061@gmail.com
 
-<div align="center" style="background-color:#2B213A; padding:20px; border-radius:20px; margin:15px 0;">
-  <h3>💻 Frontend Development</h3>
-  <a href="https://reactjs.org/" target="_blank"><img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
-  <a href="https://www.javascript.com/" target="_blank"><img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>
-  <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-  <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>
-  <a href="https://redux.js.org/" target="_blank"><img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>
+<br/>
+
+<!-- Decorative divider -->
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</p>
+
+<!-- Skills section with decorative frames -->
+<h2 align="center">✨ My Tech Palette ✨</h2>
+
+
+<!-- Frontend skills - Pink box -->
+<div align="center">
+  <img src="https://img.shields.io/badge/-Frontend%20Development-ff69b4?style=for-the-badge&logo=frontendmentor&logoColor=white" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap,redux&theme=light" />
 </div>
 
-<div align="center" style="background-color:#2B213A; padding:20px; border-radius:20px; margin:15px 0;">
-  <h3>🔙 Backend & AI Development</h3>    
-  <a href="https://www.python.org/" target="_blank"><img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
-  <a href="https://www.djangoproject.com/" target="_blank"><img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>
-  <a href="https://nodejs.org/" target="_blank"><img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>
+<br/>
+
+<!-- Backend skills - Purple box -->
+<div align="center">
+  <img src="https://img.shields.io/badge/-Backend%20Development-9c27b0?style=for-the-badge&logo=node.js&logoColor=white" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=python,django,nodejs,mongodb&theme=light" />
 </div>
 
-<div align="center" style="background-color:#2B213A; padding:20px; border-radius:20px; margin:15px 0;">
-  <h3>☁️ DevOps & Tools</h3>
-  <a href="https://aws.amazon.com/" target="_blank"><img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-  <a href="https://www.linux.org/" target="_blank"><img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-  <a href="https://github.com/" target="_blank"><img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-  <a href="https://www.docker.com/" target="_blank"><img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
+<br/>
+
+<!-- DevOps skills - Pink box -->
+<div align="center">
+  <img src="https://img.shields.io/badge/-DevOps%20&%20Tools-ff69b4?style=for-the-badge&logo=docker&logoColor=white" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=aws,linux,git,docker&theme=light" />
 </div>
 
-## ✨ GitHub Stats
+<br/>
+
+<!-- Decorative divider -->
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</p>
+
+<!-- GitHub stats with decorative elements -->
+<h2 align="center">💕 GitHub Magic 💕</h2>
 
 <div align="center">
+  <!-- Contribution graph -->
   <a href="https://github.com/joyritaa">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=joyritaa&count_private=true&theme=radical&border=FF6EC7&ring=FF6EC7&fire=FF69B4&currStreakLabel=FF69B4" alt="GitHub Streak" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=joyritaa&bg_color=0D1117&color=ff69b4&line=9C27B0&point=ff69b4&hide_border=true" alt="Contribution Graph" />
   </a>
 </div>
 
+<br/>
+
 <div align="center">
+  <!-- Streak stats -->
   <a href="https://github.com/joyritaa">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joyritaa&theme=radical&show_icons=true&count_private=true&layout=compact&border_color=FF6EC7&title_color=FF6EC7" alt="Top Languages" />
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=joyritaa&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=ff69b4&ring=ff69b4&currStreakLabel=ff69b4" alt="GitHub Streak" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <!-- Language and stats side by side -->
+  <a href="https://github.com/joyritaa">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joyritaa&theme=radical&hide_border=true&layout=compact&title_color=ff69b4" alt="Top Languages" />
   </a>
   <a href="https://github.com/joyritaa">
-    <img width="50%" src="https://github-readme-stats.vercel.app/api/?username=joyritaa&show_icons=true&count_private=true&theme=radical&show_icons=true&border_color=FF6EC7&title_color=FF6EC7&icon_color=FF69B4" alt="GitHub Stats" />
+    <img width="50%" src="https://github-readme-stats.vercel.app/api/?username=joyritaa&theme=radical&hide_border=true&show_icons=true&title_color=ff69b4&icon_color=ff69b4" alt="GitHub Stats" />
   </a>
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=joyritaa&theme=radical&margin-w=15&margin-h=15&column=7&no-frame=true" alt="GitHub Trophy" />
+  <!-- Trophy showcase -->
+  <img src="https://github-profile-trophy.vercel.app/?username=joyritaa&theme=radical&no-frame=true&margin-w=15&column=7&title=Stars,Followers,Commits,Issues,Repositories,PullRequest" alt="GitHub Trophy" />
 </div>
 
-## 💕 Let's Connect!
+<!-- Decorative divider -->
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</p>
+
+<!-- Contact section with heart emojis -->
+<h2 align="center">💌 Let's Connect 💌</h2>
 
 <div align="center">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-FF6EC7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://ke.linkedin.com/in/joyrita-njoki-3475332a1" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/your-twitter" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-9C27B0?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://instagram.com/your-instagram" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-FF69B4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://dev.to/your-dev" target="_blank">
-    <img src="https://img.shields.io/badge/-Dev.to-9C27B0?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
-  </a>
-</div>
-
-<div align="center">
-  <h3>👁️ Profile Views</h3>
-  <a href="https://github.com/joyritaa">
-    <img src="https://profile-counter.glitch.me/joyritaa/count.svg" style="height:auto; width:300px;"/>
+  <a href="https://instagram.com/s3cr3ts0fmia" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </div>
 
+<br/>
+
+<!-- Visitor counter with decorative elements -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF6EC7&height=120&section=footer&text=Thank%20You%20For%20Visiting!&fontSize=20&fontColor=ffffff" />
+  <h3>👑 Visitor Count 👑</h3>
+  <img src="https://profile-counter.glitch.me/joyritaa/count.svg" alt="Visitor Count" width="300" height="40" style="border-radius:15px"/>
+</div>
+
+<!-- Fun quote -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote" />
+</div>
+
+<!-- Decorative footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=ffffff&animation=twinkling" />
 </div>
